@@ -24,7 +24,7 @@ Your completed program is due before 1pm May 11th 2020
 Run the following command
 ```
 python3 project4.py spam_train.csv spam_test.csv
-```ß
+```
 
 ## Proof of Submission
 ![Photo](Proof_of_Submission_Project4.PNG)
