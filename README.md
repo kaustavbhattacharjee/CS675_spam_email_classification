@@ -27,4 +27,6 @@ python3 project4.py spam_train.csv spam_test.csv
 ```
 
 ## Proof of Submission
+
+Accuracy: **97. 26%**
 ![Photo](Proof_of_Submission_Project4.png)
